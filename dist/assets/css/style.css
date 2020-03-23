@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.header {
+    padding: 0;
+}
+
+.nav {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
